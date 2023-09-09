@@ -1,7 +1,5 @@
 # Munawer's GitHub Profile
 
-![Profile Picture](URL_TO_YOUR_PROFILE_PICTURE)
-
 My name is Munawer, and I currently work at **High On Cyber Pvt Ltd** in Karachi, Pakistan. I have 1 year of experience in Flutter mobile app development.
 
 ## About Me
@@ -10,7 +8,6 @@ My name is Munawer, and I currently work at **High On Cyber Pvt Ltd** in Karachi
 - **Birthday:** August 2, 1999
 - **Location:** Karachi, Pakistan
 - **LinkedIn:** [Munawer's LinkedIn Profile](https://www.linkedin.com/in/munawer-flutter/)
-- **GitHub:** [Munawer's GitHub Profile](https://github.com/Munawer2022)
 - **Email:** lastwork2022@gmail.com
 - **Phone:** 0310-3527219
 
